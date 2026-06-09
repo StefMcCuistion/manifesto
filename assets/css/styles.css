@@ -1,5 +1,9 @@
 /* styles.css */
 
+html {
+	background-color: goldenrod;
+}
+
 h1 {
 	font-family: Arial;
 	color: hotpink;
