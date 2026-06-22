@@ -1,20 +1,20 @@
 /* styles.css */
 
 html {
-	background-color: goldenrod;
+	background-color: AliceBlue;
 	background-image: 
-		linear-gradient(goldenrod, forestgreen);
+		linear-gradient(AliceBlue, DarkGray);
 }
 
 h1 {
-	font-family: Arial;
-	color: hotpink;
+	font-family: Courier New;
+	color: CadetBlue;
 	font-size: 220px; 
 	letter-spacing: 10px;
 }
 
 div { 
-	font-family: Georgia;
+	font-family: Courier New;
 	color: dodgerblue;
 	font-size: 30px;
 	letter-spacing: 5px;
@@ -22,7 +22,6 @@ div {
 
 .red {
 	color: red;
-	font-size: 60px;
 	font-weight: bold;
 	transform: rotate(25deg);
 }
