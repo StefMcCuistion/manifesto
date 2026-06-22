@@ -38,4 +38,5 @@ div {
 .offset span {
 	display: inline-block;
 	transform: rotate(12deg);
+	color: DimGray;
 }
