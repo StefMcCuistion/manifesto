@@ -25,10 +25,8 @@ div {
 	letter-spacing: 5px;
 }
 
-.red {
-	color: red;
-	font-weight: bold;
-	transform: rotate(25deg);
+.black {
+	color: Black;
 }
 
 .offset {
